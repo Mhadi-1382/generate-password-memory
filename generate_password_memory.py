@@ -4,7 +4,7 @@ also the storage of all the passwords that is,
 it's good because you are no longer worried
 about forgetting your passwords.
 
-See Code Github: https://github.com/Mhadi-1382/
+See Code Github: https://github.com/Mhadi-1382/generate-password-memory
 '''
 
 import sqlite3
