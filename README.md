@@ -1,6 +1,13 @@
 
 # generate-password-memory
 
+![GitHub Repo Size](https://img.shields.io/github/repo-size/Mhadi-1382/generate-password-memory
+)
+![GitHub Stars](https://img.shields.io/github/stars/Mhadi-1382/generate-password-memory
+)
+![GitHub Forks](https://img.shields.io/github/forks/Mhadi-1382/generate-password-memory
+)
+
 **Generate Password Memory is an app to create very strong passwords and also the storage of all the passwords that is, it's good because you are no longer worried about forgetting your passwords.**
 
 <img src="https://github.com/Mhadi-1382/generate-password-memory/blob/master/Screenshot.png" description="Generate Password Memory is an app to create very strong passwords and also the storage of all the passwords that is, it's good because you are no longer worried about forgetting your passwords." alt="generate-password-memory, generate-password, password" title="generate-password-memory">
